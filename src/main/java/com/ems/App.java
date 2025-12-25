@@ -1,7 +1,7 @@
 package com.ems;
 
 /**
- * Hello world!
+ * Hello world! //mvn clean compile mvn exec:java
  */
 public class App {
     public static void main(String[] args) {

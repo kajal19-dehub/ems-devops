@@ -4,5 +4,11 @@
     "name": "kajal",
     "department": "cse",
     "salary": 2000000.0
+  },
+  {
+    "id": 2,
+    "name": "ravi",
+    "department": "cse",
+    "salary": 1.0
   }
 ]
