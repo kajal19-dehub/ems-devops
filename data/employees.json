@@ -7,8 +7,14 @@
   },
   {
     "id": 2,
-    "name": "ravi",
+    "name": "rabi",
     "department": "cse",
-    "salary": 1.0
+    "salary": 0.1
+  },
+  {
+    "id": 3,
+    "name": "kajal",
+    "department": "cse",
+    "salary": 3000000.0
   }
 ]
