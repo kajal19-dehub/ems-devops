@@ -16,5 +16,11 @@
     "name": "kajal",
     "department": "cse",
     "salary": 3000000.0
+  },
+  {
+    "id": 4,
+    "name": "kajal",
+    "department": "cse",
+    "salary": 2000.0
   }
 ]
